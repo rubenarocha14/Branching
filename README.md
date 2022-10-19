@@ -16,6 +16,7 @@ git checkout main - return to latest commit
 
 *git log - show commit history
 *git log--oneline - show commit history (in compact format)
+git -config -l - list config for local repo
 
 ###Branch COMMANDS
 
