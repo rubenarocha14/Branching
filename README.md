@@ -1,5 +1,7 @@
 #GIT CHEAT SHEET
 
+List of commands and practice with git branching
+
 ##BASIC COMMANDS
 git init to initialize repo in working dir
 
